@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: Client side routing is useful when you don’t need to worry about the initial load of your app. It essentially loads all of the app's code. That way when the app is loaded switching between different links or webpages is seamless and instantaneous.
 
 ## Project Set Up
 
